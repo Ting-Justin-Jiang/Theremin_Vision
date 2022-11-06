@@ -1,0 +1,3 @@
+# Somatosensory-Chinese-Instruments
+
+I am Ting Jiang. My team, Zhuohao Zeng and Mulang Shi, and I developed a somatosensory Chinese instrument. Applying the open cv and google media pipe modules, we realize the AI hand recognition and calculate the landmarks per frame. we design a one-to-one mapping between notes in the major pentatonic scale and customized gestures so that it can play traditional Chinese music.  We managed to collect more than 15 thousand pieces of data in our training set to best classify and predict the hand gestures. In the meanwhile, the musical sound is modified and designed, to reach a futuristic sonic ambiance. 
